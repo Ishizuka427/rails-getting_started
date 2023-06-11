@@ -1,5 +1,11 @@
 # rails-getting_started
 
+サーバー起動
+```sh
+$ bin/rails server
+```
+http://127.0.0.1:3000/
+
 [Rails をはじめよう](https://railsguides.jp/getting_started.html) の個人的 memo
 
 ```console
