@@ -1,17 +1,13 @@
-# rails-getting_started
-
-サーバー起動
+# サーバー起動
 ```sh
 $ bin/rails server
 ```
 http://127.0.0.1:3000/
 
----
-
-To-Do
+# To-Do
 - [ ] [9 リファクタリング](https://railsguides.jp/getting_started.html#%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0) から進める
 
-[Rails をはじめよう](https://railsguides.jp/getting_started.html) の個人的 memo
+# [Rails をはじめよう](https://railsguides.jp/getting_started.html) の個人的 memo
 
 ```console
 $ gem install rails
